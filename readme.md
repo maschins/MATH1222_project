@@ -24,5 +24,8 @@ Because we don't have the sequence of the nodes and the racine but only the leaf
 
 $$P(s_1,\cdots,s_5\|T)=\sum_{s'_1, s'_2,\cdots} P(s_1, \cdots,s_5,s'_1,s'_2,\cdots,s'_{N-1}|T)$$
 
+The project is divided in 3 parts. In the last part the cities are supposed to be logical, a random sequence of cities
+means the implementation is incorrect.
+
 <span style="color:#FF0000">DEADLINE:</span> **09/05/2025**
 
